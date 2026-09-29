@@ -33,10 +33,15 @@ How can the company optimize its product and promotional strategies?
 **🛠️ Tools & Technologies**
 
 Python — Data cleaning, transformation, and preparation
+
 Pandas — Data manipulation and analysis
+
 SQL / MySQL — Data modeling, transaction simulation, querying, segmentation, and business analysis
+
 Power BI — Interactive dashboards and data visualization
+
 GitHub — Project documentation and portfolio management
+
 
 **📁 Project Workflow**
 
