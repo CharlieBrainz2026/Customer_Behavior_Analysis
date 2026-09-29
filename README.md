@@ -2,6 +2,7 @@
 Customer Behavior Analysis using Python, SQL &amp; Power BI | Analyzing shopping patterns, customer segments, purchase drivers, loyalty, and sales trends to generate actionable business insights.
 
 ## Customer Behavior Analysis
+
 **📊 Project Overview**
 
 This project analyzes customer shopping behavior for a leading retail company to identify purchasing patterns, customer segments, purchase drivers, and opportunities to improve sales, customer satisfaction, and long-term customer loyalty.
