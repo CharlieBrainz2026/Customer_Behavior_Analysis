@@ -2,11 +2,13 @@
 Customer Behavior Analysis using Python, SQL &amp; Power BI | Analyzing shopping patterns, customer segments, purchase drivers, loyalty, and sales trends to generate actionable business insights.
 
 ## Customer Behavior Analysis
-📊 Project Overview
+**📊 Project Overview**
+
 This project analyzes customer shopping behavior for a leading retail company to identify purchasing patterns, customer segments, purchase drivers, and opportunities to improve sales, customer satisfaction, and long-term customer loyalty.
 The project follows an end-to-end data analytics workflow using Python, SQL, and Power BI, transforming raw customer shopping data into business-focused insights and recommendations.
 
 **🎯 Business Problem Statement**
+
 A leading retail company wants to better understand its customers' shopping behavior in order to improve sales, customer satisfaction, and long-term loyalty.
 Management has identified changes in purchasing patterns across demographics, product categories, seasons, discounts, reviews, payment preferences, and sales channels.
 The key business question is:
@@ -36,6 +38,7 @@ GitHub — Project documentation and portfolio management
 **📁 Project Workflow**
 
 **1. Data Preparation & Modeling — Python**
+
 The raw customer shopping dataset is cleaned and prepared for analysis using Python.
 Tasks include:
 Inspecting the raw dataset
@@ -48,6 +51,7 @@ Creating analysis-ready datasets
 Exporting the cleaned data for SQL analysis
 
 **2. Data Analysis — SQL**
+
 The cleaned dataset is loaded into SQL and structured for business analysis.
 SQL analysis includes:
 Customer segmentation
@@ -62,9 +66,11 @@ Customer loyalty analysis
 Purchase-driver analysis
 Aggregations and business KPIs
 Simulated business transactions
-SQL queries are designed to answer practical business questions and demonstrate the ability to transform raw data into actionable insights.
+
+> SQL queries are designed to answer practical business questions and demonstrate the ability to transform raw data into actionable insights.
 
 **3. Visualization & Insights — Power BI**
+
 An interactive Power BI dashboard is developed to communicate the most important findings to business stakeholders.
 The dashboard focuses on areas such as:
 
@@ -82,6 +88,7 @@ Key performance indicators
 > Interactive filters allow users to explore the data across relevant customer and purchasing dimensions.
 
 **4. Business Report & Recommendations**
+
 The project translates the analytical findings into business insights and recommendations.
 The report focuses on:
 Key findings
@@ -95,6 +102,7 @@ Customer engagement opportunities
 Recommendations supported by the data
 
 **5. Presentation**
+
 A presentation summarizes the project and communicates the most important insights to stakeholders in a clear and business-focused format.
 The presentation includes:
 Business problem
@@ -105,6 +113,7 @@ Business implications
 Recommendations
 
 **📈 Expected Business Insights**
+
 The analysis is designed to help the company understand:
 Who its most valuable customer segments are
 Which products and categories generate the strongest demand
@@ -116,6 +125,7 @@ Which factors are associated with repeat purchasing and loyalty
 Where marketing and customer engagement opportunities may exist
 
 **💡 Business Value**
+
 The project demonstrates how customer shopping data can be transformed into practical business intelligence.
 The resulting insights can support decisions related to:
 Customer segmentation
