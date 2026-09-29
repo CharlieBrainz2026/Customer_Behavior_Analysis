@@ -9,12 +9,14 @@ The project follows an end-to-end data analytics workflow using Python, SQL, and
 
 **🎯 Business Problem Statement**
 
+
 A leading retail company wants to better understand its customers' shopping behavior in order to improve sales, customer satisfaction, and long-term loyalty.
 Management has identified changes in purchasing patterns across demographics, product categories, seasons, discounts, reviews, payment preferences, and sales channels.
 The key business question is:
 How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
 
 **🔎 Key Business Questions**
+
 The analysis investigates questions such as:
 Which customer demographics contribute the most to sales?
 Which product categories are most popular?
@@ -29,6 +31,7 @@ What patterns can be used to improve customer engagement and marketing strategie
 How can the company optimize its product and promotional strategies?
 
 **🛠️ Tools & Technologies**
+
 Python — Data cleaning, transformation, and preparation
 Pandas — Data manipulation and analysis
 SQL / MySQL — Data modeling, transaction simulation, querying, segmentation, and business analysis
